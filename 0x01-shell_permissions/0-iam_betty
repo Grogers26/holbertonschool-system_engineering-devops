@@ -1,2 +1,3 @@
 #!/bin/bash/
-chown usr betty
+tail -1 0-oam_betty | wc -c
+
