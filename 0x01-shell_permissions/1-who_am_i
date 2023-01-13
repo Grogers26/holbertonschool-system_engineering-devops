@@ -1,2 +1,2 @@
-#!/bin/bash/
-username 
+#!/bin/bash
+ls -l /usr/
