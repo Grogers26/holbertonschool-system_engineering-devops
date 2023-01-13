@@ -1,3 +1,6 @@
 #!/bin/bash/
-tail -1 0-oam_betty | wc -c
+$ wc -l file
+su betty
+
+
 
