@@ -7,6 +7,6 @@ result=$?
 if [ $result -eq 0 ]; then	
 git push
 else	
-echo 'Commit Failed
+echo '
 
 
