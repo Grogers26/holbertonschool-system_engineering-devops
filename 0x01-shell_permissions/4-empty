@@ -1,2 +1,2 @@
 #!/bin/bash
-touch 'im a new file'
+echo 'im a new file'
