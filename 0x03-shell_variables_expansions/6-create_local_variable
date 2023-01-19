@@ -1,4 +1,5 @@
 #!/bin/bash
 name=BEST
 value=School
-echo "local var=value local varName"
+"local var=value"
+"local var=name"
