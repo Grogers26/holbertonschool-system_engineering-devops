@@ -1,4 +1,4 @@
 #!/bin/bash
 name=BEST
-value=school
-export [VARIABLE_NAME]=[variable_value]
+value=School
+export [BEST]=[School]
