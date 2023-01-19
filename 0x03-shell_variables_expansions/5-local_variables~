@@ -1,2 +1,0 @@
-#!/bin/bash
-printenv "ls -a" | less DISPLAY 
