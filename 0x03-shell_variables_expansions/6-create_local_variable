@@ -1,5 +1,4 @@
 #!/bin/bash
 name=BEST
-value=School
-"local var=value"
-"local var=name"
+value=school
+export [VARIABLE_NAME]=[variable_value]
