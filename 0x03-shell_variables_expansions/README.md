@@ -1,0 +1,6 @@
+#!/bin/bash
+file="$"
+chmod u+x "$"
+git add .
+git commit -m "$"
+git push
