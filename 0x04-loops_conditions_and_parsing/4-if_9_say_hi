@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# display Best School 10 times, on the 9th item it changes to Hi
+i=0
+while [ $i -le 9 ]
+do
+    if [ $i -eq 9 ]
+    then
+          echo "hi"
+     fi
+     echo "Best School"
+     ((i++))
+done
