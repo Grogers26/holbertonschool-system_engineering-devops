@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-# This kills a process with pkill                                                    pkill -f 7-highlander
+# This kills a process with pkill                                                    pkill -f  7-highlander
