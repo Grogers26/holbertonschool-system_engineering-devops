@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PAth
+echo "hello user" $USER
