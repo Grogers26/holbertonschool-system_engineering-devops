@@ -1,4 +1,2 @@
 #!/bin/bash
-name=BEST
-value=School
-export [BEST]=[School]
+Best="School"
